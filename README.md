@@ -1,3 +1,6 @@
+![Screenshot 2025-06-10 130931](https://github.com/user-attachments/assets/aec0cb14-59d9-4793-8578-8de020e04b47)
+
+
 # 📊 Sales Performance Dashboard – Power BI Report
 
 ## 📁 Project Overview
